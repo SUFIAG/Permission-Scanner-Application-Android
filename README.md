@@ -18,7 +18,3 @@ An `Android Application Scanner` built using `Java on Android Studio`. It basica
   <img src = "https://github.com/SameetAsadullah/Android-Applications-Permission-Scanner/blob/main/extras/working-ss-5.jpg" alt = "" width="200px"/>
   <img src = "https://github.com/SameetAsadullah/Android-Applications-Permission-Scanner/blob/main/extras/working-ss-6.jpg" alt = "" width="200px"/>
 </div>
-  
-### Contributors
-- [Sameet Asadullah](https://github.com/SameetAsadullah)
-- [Aysha Noor](https://github.com/ayshanoorr)
